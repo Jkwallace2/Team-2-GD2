@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/ChickenGame/Saved
+/ChickenGame/Saved/Config/WindowsEditor
+/ChickenGame/Saved/Config/WindowsEditor
+ChickenGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+ChickenGame/Saved/Logs/ChickenGame.log
