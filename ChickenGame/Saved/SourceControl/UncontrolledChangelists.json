@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Parent/M_Decal.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Decals/MI_Target.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Maps/BarnYard1.umap",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Decals/MI_CrossShiny.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Feather_explotion.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/BluePrints/BP_ChickenPlayer.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/BluePrints/Enemys/BP_EnemyCharacter.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Feather_Hurt.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy1.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_Step.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/ImportedModels/ChickenCharacterAttempt2/chicken_root.uasset",
 				"C:/Users/patri/OneDrive/Documents/GitHub/Emerge Game/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy.uasset"
 			]
 		}
