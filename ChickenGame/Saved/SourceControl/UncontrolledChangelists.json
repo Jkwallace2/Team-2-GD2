@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/huntm/GitHub/Team-2-GD2/ChickenGame/Content/BluePrints/BP_CameraAnimationPlayer.uasset",
+				"C:/Users/huntm/GitHub/Team-2-GD2/ChickenGame/Content/ChickenGame/BluePrints/BP_ChickenPlayer.uasset",
+				"C:/Users/huntm/GitHub/Team-2-GD2/ChickenGame/Content/ChickenGame/Maps/BarnYard1.umap",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Parent/M_Decal.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Decals/MI_Target.uasset",
