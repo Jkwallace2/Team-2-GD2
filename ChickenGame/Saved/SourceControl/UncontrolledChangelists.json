@@ -14,9 +14,20 @@
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/BluePrints/BP_ChickenPlayer.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/BluePrints/Enemys/BP_EnemyCharacter.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Feather_Hurt.uasset",
-				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy1.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_Step.uasset",
 				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/ImportedModels/ChickenCharacterAttempt2/chicken_root.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Models/feather.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Materials/Parent/M_DiffuseOnlyAlpha.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Models/T_feather_DA.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Models/SM_Feather.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/K9/AQ4WFJK5V5JPCSB2U4YS2H.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/BluePrints/BP_BounceVolume.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/BluePrints/Collectables/BP_Collectable.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Maps/BP_TestLevel.umap",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/ChickenGame/Maps/MainMenu.umap",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/NS_Bugs.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/BluePrints/Collectables/BP_Key.uasset",
+				"C:/Users/jaedo/git stuff/2025/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy1.uasset",
 				"C:/Users/patri/OneDrive/Documents/GitHub/Emerge Game/Team-2-GD2/ChickenGame/Content/Imported/VFX/Smoke_explotion_enemy.uasset"
 			]
 		}
